@@ -38,7 +38,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][5][Configuration][General]
-launchers=preferred://filemanager,applications:org.kde.konsole.desktop,applications:com.google.Chrome.desktop,applications:com.tutanota.Tutanota.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.kwrite.desktop,applications:org.onlyoffice.desktopeditors.desktop,applications:org.kde.kdenlive.desktop,applications:code-insiders.desktop,applications:io.github.shiftey.Desktop.desktop,applications:virt-manager.desktop,applications:org.kde.discover.desktop,applications:systemsettings.desktop
+launchers=preferred://filemanager,applications:org.kde.konsole.desktop,applications:com.google.Chrome.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.kwrite.desktop,applications:org.onlyoffice.desktopeditors.desktop,applications:org.kde.kdenlive.desktop,applications:code-insiders.desktop,applications:io.github.shiftey.Desktop.desktop,applications:virt-manager.desktop,applications:org.kde.discover.desktop,applications:systemsettings.desktop
 showOnlyCurrentDesktop=false
 wheelEnabled=false
 
